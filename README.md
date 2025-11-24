@@ -45,8 +45,7 @@ home.html
 
 
 ## OUTPUT:
-![alt text](../apple.jpg)
-![alt text](../sec-logo-01as.png)
+![alt text](apple.jpg)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
